@@ -32,7 +32,7 @@ TELEGRAM_BOT_TOKEN = "8473908662:AAHTqwiz-hAmUKlNYgrrp2p0RrINU-sTpU8"
 WHATSAPP_API_URL = "WHATSAPP_API_URL=http://localhost:3000"
 
 # Owner ID - has full access
-OWNER_ID = 5926172220,5668200230
+OWNER_ID = 5926172220
 
 # Track WA connection state for notifications
 _wa_was_connected = False
