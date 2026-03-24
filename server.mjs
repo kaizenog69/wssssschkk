@@ -4,7 +4,7 @@ import cors from 'cors';
 import SessionManager from './whatsapp.mjs';
 
 const app = express();
-const port = process.env.WA_API_PORT || 3001;
+const port = process.env.WA_API_PORT || 3000;
 
 app.use(cors());
 app.use(bodyParser.json({ limit: '10mb' }));
