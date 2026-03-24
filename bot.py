@@ -28,7 +28,7 @@ import aiohttp
 # ==========================================
 # CONFIGURATION
 # ==========================================
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+TELEGRAM_BOT_TOKEN = "8473908662:AAHTqwiz-hAmUKlNYgrrp2p0RrINU-sTpU8"
 WHATSAPP_API_URL = os.getenv("WHATSAPP_API_URL", "http://localhost:3001")
 
 # Owner ID - has full access
